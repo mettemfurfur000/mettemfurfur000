@@ -1,7 +1,8 @@
+<div  id="header" align="center"> <img src="https://media.discordapp.net/attachments/798568273998381156/951138183796637706/loading.gif" width="100" /> </div>
+
 <h1 align="center">
   hi, i'm mettem
 </h1>
-<h3 align="center"> <img src="https://media.discordapp.net/attachments/798568273998381156/951138183796637706/loading.gif"/> </h3>
 
 and i'm too lazy to do this readme by hand
 
