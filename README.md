@@ -16,7 +16,7 @@ You can take a look at my projects and see if I'm the right fit for your needs.
 - 🔭 working on https://github.com/mettemfurfur000/core_of_creation
 <h3 align="left">link s:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettemfurfur000)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="https://www.youtube.com/c/mettem furfur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mettem furfur" height="30" width="40" /></a>
