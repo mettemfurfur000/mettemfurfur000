@@ -13,10 +13,12 @@ You can take a look at my projects and see if I'm the right fit for your needs.
 (Thanks to DeepL for the translation from Russian!)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mettemfurfur000&label=Profile%20views&color=0e75b6&style=flat" alt="mettemfurfur000" /> </p>
-- 🔭 working on https://github.com/mettemfurfur000/core_of_creation
-<h3 align="left">link s:</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettemfurfur000)](https://github.com/anuraghazra/github-readme-stats)
+
+
+- 🔭 working on https://github.com/mettemfurfur000/core_of_creation
+<h3 align="left">link s:</h3>
 
 <p align="left">
   <a href="https://www.youtube.com/c/mettem furfur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mettem furfur" height="30" width="40" /></a>
