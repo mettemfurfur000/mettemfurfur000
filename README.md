@@ -12,6 +12,8 @@ You can take a look at my projects and see if I'm the right fit for your needs.
 
 (Thanks to DeepL for the translation from Russian!)
 
+upd: possibly already expelled 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mettemfurfur000&label=Profile%20views&color=0e75b6&style=flat" alt="mettemfurfur000" /> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettemfurfur000)](https://github.com/anuraghazra/github-readme-stats)
