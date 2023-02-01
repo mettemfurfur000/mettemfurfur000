@@ -1,18 +1,10 @@
 <div  id="header" align="center"> <img src="https://media.discordapp.net/attachments/798568273998381156/951138183796637706/loading.gif" width="100" /> </div>
 
 <h1 align="center">
-  hi, i'm mettem
+  helo
 </h1>
 
-and i'm too lazy to do this readme by hand
-
-At the moment I'm just a student at some russian university in the field I'm not interested in, but I'm spending a lot of time studying C++, SDL2 and some other stuff like json-parser and LuaBridge (I'm developing my own game engine based on blocks and simple graphics!)
-
-You can take a look at my projects and see if I'm the right fit for your needs.
-
-(Thanks to DeepL for the translation from Russian!)
-
-upd: possibly already expelled 
+i love C C++ and lua
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mettemfurfur000&label=Profile%20views&color=0e75b6&style=flat" alt="mettemfurfur000" /> </p>
 
