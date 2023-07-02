@@ -1,4 +1,4 @@
-<div  id="header" align="center"> <img src="https://media.discordapp.net/attachments/798568273998381156/951138183796637706/loading.gif" width="100" /> </div>
+<div  id="header" align="center"> <img src="https://media.discordapp.net/attachments/807809192537882647/1105585986274070629/attachment-1-2.gif" width="200" /> </div>
 
 <h1 align="center">
   helo
