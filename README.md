@@ -12,7 +12,7 @@ i love C C++ and lua
 
 
 - ~~🔭 working on https://github.com/mettemfurfur000/core_of_creation~~
-- 🔭 working on [https://github.com/mettemfurfur000/core_of_creation](https://github.com/mettemfurfur000/blockengine)
+- 🔭 working on [https://github.com/mettemfurfur000/blockengine](https://github.com/mettemfurfur000/blockengine)
 <h3 align="left">link s:</h3>
 
 <p align="left">
