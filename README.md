@@ -11,7 +11,8 @@ i love C C++ and lua
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettemfurfur000)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 working on https://github.com/mettemfurfur000/core_of_creation
+~~- 🔭 working on https://github.com/mettemfurfur000/core_of_creation~~
+- 🔭 working on [https://github.com/mettemfurfur000/core_of_creation](https://github.com/mettemfurfur000/blockengine)
 <h3 align="left">link s:</h3>
 
 <p align="left">
