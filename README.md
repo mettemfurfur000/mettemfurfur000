@@ -13,6 +13,9 @@ i love C C++ and lua
 
 - ~~🔭 working on https://github.com/mettemfurfur000/core_of_creation~~
 - 🔭 working on [https://github.com/mettemfurfur000/blockengine](https://github.com/mettemfurfur000/blockengine)
+
+delay my death in poverty fora few weeks with sum ltc: `LgdRdDjbap1GHr4FZW3tki1tT4Lh2mN2so`
+
 <h3 align="left">link s:</h3>
 
 <p align="left">
